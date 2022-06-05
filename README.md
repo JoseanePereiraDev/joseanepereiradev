@@ -3,6 +3,7 @@
 - 🎒 Estudante de Desenvolvimento de Sistema - Senai Centid
 - 📫 Email: joseane.p.dev@gmail.com
 - 😄 Pronomes: ela/dela
+##
 
 <div align="center">
   <a href="https://github.com/JoseanePereiraDev">
